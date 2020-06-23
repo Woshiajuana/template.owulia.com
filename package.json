@@ -5,7 +5,7 @@
     "author": "Ajuan <zhigang.chen@owulia.com>",
     "private": true,
     "scripts": {
-        "mock": "node cmd -m cmd/ftp.config.js -f cmd/ftp.config.js"
+        "mock": "node cmd -m cmd/config.js -f cmd/config.js"
     },
     "devDependencies": {
         "marked": "^1.1.0",
